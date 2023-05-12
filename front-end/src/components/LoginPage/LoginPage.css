@@ -1,0 +1,17 @@
+h1 {
+    font-size: large;
+}
+.container {
+    text-align: center;
+}
+.text-fields {
+    margin: 1rem;
+}
+.login-button {
+    margin: 1.6rem;
+}
+.logo {
+    width: 248px;
+    height: 248px;
+    border-radius: 75px;
+}
